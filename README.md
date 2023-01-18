@@ -4,8 +4,6 @@
  Управление: стрелочка вверх, вниз, влево и вправо.
  Мы постарались подобрать классические, но в тоже время приятные цвета для фигур.
  Надеюсь, что Вы сможете погрузиться в дзен, играя в наше приложение.
- Инструкция по установлению и пользования приложением:
- Управление: стрелочка вверх, вниз, влево и вправо.
  С наилучшими пожеляними, Разработчики.
  
 • Установка:
@@ -26,12 +24,14 @@ Cтрелочка вверх, вниз, влево и вправо.
  6. Вы сможете получить допольнительные очки, если фигуры опустите вручную быстрее, чем это сделает игра.
 
 
+ Надеемся, что Вы сможете погрузиться в дзен, играя в наше приложение.
+ С наилучшими пожеляними, Разработчики.
+
 # Tetris:ENG version.
  This application was created in order to collect old - good games that were associated with the treasure ,,Tetris".
  In our application, one of the modes of such a device is implemented - ,,Falling Shapes".
- Management: arrow up, down, left and right.
  We tried to pick up classic, but at the same time pleasant colors for the figure.
- Hope you will probably meet Zen while playing our app.
+ Hope you will probably meet Dzen while playing our app.
  With adaptation wish, Developers.
  
  • Installation:
@@ -50,3 +50,7 @@ Arrow up, down, left and right.
 4. You can get points for removing the horizontal line.
 5. Loss occurs when it is impossible to build a complete horizontal line or when a vertical column of figures line up to the edge of the field.
 6. You can get extra points if you move the pieces manually faster than the game does.
+
+
+ Hope you will probably meet Dzen while playing our app.
+ With adaptation wish, Developers.
