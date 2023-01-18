@@ -25,7 +25,7 @@ Cтрелочка вверх, вниз, влево и вправо.
 
  Надеемся, что Вы сможете погрузиться в дзен, играя в наше приложение.
  
-                                                                                          С наилучшими пожеляними, Разработчики.
+                                                                                          С наилучшими пожеланиями, Разработчики.
 
 # Tetris:ENG version.
  This application was created in order to collect old - good games that were associated with the treasure ,,Tetris".
