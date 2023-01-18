@@ -1,6 +1,4 @@
-# RUS version
-
-# Тетрис.
+# Тетрис:RUS version.
  Это приложение создано в целях вспомнить старые - добрые игры, которые были на устройстве <<Тетрис>>.
  В нашем приложении реализован один из режимов такого устройства - <<Падающие фигуры>>.
  Управление: стрелочка вверх, вниз, влево и вправо.
@@ -8,9 +6,8 @@
  Надеюсь, что Вы сможете погрузиться в дзен, играя в наше приложение.
  С наилучшими пожеляними, Разработчики.
 
-# ENG version:
 
-# Tetris
+# Tetris:ENG version.
  This application was created in order to collect old - good games that were associated with the treasure <<Tetris>>.
  In our application, one of the modes of such a device is implemented - <<Falling Shapes>>.
  Management: arrow up, down, left and right.
