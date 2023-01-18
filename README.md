@@ -53,4 +53,5 @@ Arrow up, down, left and right.
 
 
  Hope you will probably meet Dzen while playing our app.
- With adaptation wish, Developers.
+ 
+                                                                                                                                With adaptation wish, Developers.
