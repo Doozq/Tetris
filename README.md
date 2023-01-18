@@ -8,7 +8,7 @@
 • Установка:
  1. Разархивировать папку.
  2. Открыть файл main с помощью pycharm или иного интерпритатора.
- 3. В командную строку/терминал ввести: pip install pygame
+ 3. В командную строку/терминал ввести: ,,pip install pygame".
  4. Запустить приложение.
 
 • Управление: 
@@ -37,7 +37,7 @@ Cтрелочка вверх, вниз, влево и вправо.
  • Installation:
 1. Unzip the folder.
 2. Open the main file with pycharm or another interpreter.
-3. In the command line/terminal type: pip install Pygame
+3. In the command line/terminal type: ,,pip install pygame".
 4. Launch the application.
 
 • Management: 
