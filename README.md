@@ -7,15 +7,16 @@
  Инструкция по установлению и пользования приложением:
  Управление: стрелочка вверх, вниз, влево и вправо.
  С наилучшими пожеляними, Разработчики.
-•Установка:
+ 
+• Установка:
  1. Разархивировать папку.
  2. Открыть файл main с помощью pycharm или иного интерпритатора.
  3. В командную строку/терминал ввести: pip install Pygame
  4. Запустить приложение.
 
-•Управление: стрелочка вверх, вниз, влево и вправо.
+• Управление: стрелочка вверх, вниз, влево и вправо.
 
-•Геймплей:
+• Геймплей:
  1. Играть в своё удовольствие.
  2. При желании и умении - возможность попасть в таблицу лидеров.
  3. Вы также можете поставить на паузу при необходимости.
@@ -31,12 +32,16 @@
  We tried to pick up classic, but at the same time pleasant colors for the figure.
  Hope you will probably meet Zen while playing our app.
  With adaptation wish, Developers.
+ 
  • Installation:
 1. Unzip the folder.
 2. Open the main file with pycharm or another interpreter.
 3. In the command line/terminal type: pip install Pygame
 4. Launch the application.
-• Management: arrow up, down, left and right.
+
+• Management: 
+Arrow up, down, left and right.
+
 • Gameplay:
 1. Play for fun.
 2. If desired and skill - the opportunity to get into the leaderboard.
