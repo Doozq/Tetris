@@ -16,7 +16,6 @@ PREGAME = 'pregame'  # МОД ПЕРЕД САМОЙ ПЕРВОЙ ИГРОЙ (П�
 GAME = 'game'  # МОД ИГРЫ (ПАДАЮТ ФИУГРЫ)
 PAUSE = 'pause'  # МОД ПАУЗЫ ВО ВРЕМЯ ИГРЫ (ФИГУРЫ НЕ ПАДАЮТ, ПОЛЕ БЛЕКЛОЕ)
 LOSTGAME = 'lostgame'  # МОД ЗАКОНЧЕННОЙ ИГРЫ (ФИГУРЫ НЕ ПАДАЮТ ПОЛЕ БЛЕКЛОЕ, НАПИСАН СЧЕТ)
-RECORDS = 'records'  # МОД РЕКОРДОВ (ОТОБРАЖЕНИЕ РЕКОРДОВ)
 
 # ЗАГРУЗКА ЗВУКА
 sound_delete_row = pygame.mixer.Sound("sounds/sound_delete_row.mp3")
@@ -24,6 +23,9 @@ sound_delete_row.set_volume(0.2)
 
 sound_game_over = pygame.mixer.Sound("sounds/sound_game_over.mp3")
 sound_game_over.set_volume(0.5)
+
+sound_new_record = pygame.mixer.Sound("sounds/sound_new_record.mp3")
+sound_new_record.set_volume(0.2)
 
 sound_melody = pygame.mixer.Sound("sounds/sound_melody.mp3")
 sound_melody.set_volume(0.04)
